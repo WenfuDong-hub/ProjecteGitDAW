@@ -15,6 +15,7 @@ public class ProjecteGitDAW {
      */
     public static void main(String[] args) {
         System.out.println("Provant Git amb Netbeans!");
+        int hola = 1;
     }
     
 }
